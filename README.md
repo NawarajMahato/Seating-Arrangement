@@ -18,5 +18,5 @@ Import the provided SQL file. The file is known as exam_hall.sql located inside 
 Browse the Examination Hall System in a browser. i.e. http://localhost/ehms/source_code/.
 Note: To log in as a Student or Teacher, please browse the following.
 
-For Students: http://localhost/ehms-full-source-code/Source Code/student.php
-For Teachers: http://localhost/ehms-full-source-code/Source Code/teacher.php
+For Students: http://localhost/ehms/Source Code/student.php
+For Teachers: http://localhost/ehms/Source Code/teacher.php
